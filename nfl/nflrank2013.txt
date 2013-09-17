@@ -1,33 +1,33 @@
 Rank                                           Won  Lost  Tied    PF    PA   Rating
-   1 Kansas City                                 1     0     0    28     2   57.593
-   2 Miami                                       1     0     0    23    10   54.613
-   3 Denver                                      1     0     0    49    27   53.946
-   4 Tennessee                                   1     0     0    16     9   53.771
-   5 Seattle                                     1     0     0    12     7   53.515
-   6 Detroit                                     1     0     0    34    24   53.289
-   7 New Orleans                                 1     0     0    23    17   53.162
-   8 Indianapolis                                1     0     0    21    17   52.915
-   9 Philadelphia                                1     0     0    33    27   52.888
-  10 San Francisco                               1     0     0    34    28   52.869
-  11 Dallas                                      1     0     0    36    31   52.750
-  12 Chicago                                     1     0     0    24    21   52.718
-  13 St. Louis                                   1     0     0    27    24   52.677
-  14 Houston                                     1     0     0    31    28   52.635
-  15 New England                                 1     0     0    23    21   52.609
-  16 New York Jets                               1     0     0    18    17   52.522
-  17 Tampa Bay                                   0     1     0    17    18   47.478
-  18 Buffalo                                     0     1     0    21    23   47.391
-  19 San Diego                                   0     1     0    28    31   47.365
-  20 Arizona                                     0     1     0    24    27   47.323
-  21 Cincinnati                                  0     1     0    21    24   47.282
-  22 New York Giants                             0     1     0    31    36   47.250
-  23 Green Bay                                   0     1     0    28    34   47.131
-  24 Washington                                  0     1     0    27    33   47.112
-  25 Oakland                                     0     1     0    17    21   47.085
-  26 Atlanta                                     0     1     0    17    23   46.838
-  27 Minnesota                                   0     1     0    24    34   46.711
-  28 Carolina                                    0     1     0     7    12   46.485
-  29 Pittsburgh                                  0     1     0     9    16   46.229
-  30 Baltimore                                   0     1     0    27    49   46.054
-  31 Cleveland                                   0     1     0    10    23   45.387
-  32 Jacksonville                                0     1     0     2    28   42.407
+   1 New England                                 2     0     0    36    31   69.881
+   2 New Orleans                                 2     0     0    39    31   65.841
+   3 Seattle                                     2     0     0    41    10   65.342
+   4 New York Jets                               1     1     0    28    30   64.441
+   5 Buffalo                                     1     1     0    45    46   64.200
+   6 Atlanta                                     1     1     0    48    47   60.127
+   7 Tampa Bay                                   0     2     0    31    34   59.875
+   8 Kansas City                                 2     0     0    45    18   59.042
+   9 Carolina                                    0     2     0    30    36   58.802
+  10 Denver                                      2     0     0    90    50   58.410
+  11 St. Louis                                   1     1     0    51    55   54.659
+  12 Dallas                                      1     1     0    52    48   54.532
+  13 Miami                                       2     0     0    47    30   54.188
+  14 Baltimore                                   1     1     0    41    55   51.322
+  15 Arizona                                     1     1     0    49    48   49.875
+  16 New York Giants                             0     2     0    54    77   49.611
+  17 Indianapolis                                1     1     0    41    41   49.093
+  18 San Francisco                               1     1     0    37    57   47.197
+  19 Houston                                     2     0     0    61    52   46.924
+  20 Detroit                                     1     1     0    55    49   44.825
+  21 Chicago                                     2     0     0    55    51   44.440
+  22 Oakland                                     1     1     0    36    30   43.865
+  23 Cleveland                                   0     2     0    16    37   43.751
+  24 San Diego                                   1     1     0    61    61   42.140
+  25 Green Bay                                   1     1     0    66    54   41.027
+  26 Tennessee                                   1     1     0    40    39   40.425
+  27 Cincinnati                                  1     1     0    41    34   39.578
+  28 Minnesota                                   0     2     0    54    65   38.923
+  29 Philadelphia                                1     1     0    63    60   37.363
+  30 Jacksonville                                0     2     0    11    47   36.187
+  31 Pittsburgh                                  0     2     0    19    36   32.067
+  32 Washington                                  0     2     0    47    71   32.047
