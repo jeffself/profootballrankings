@@ -1,33 +1,33 @@
 Rank                                           Won  Lost  Tied    PF    PA   Rating
-   1 KANSAS CITY                                 4     1     0   149   110  107.093
-   2 GREEN BAY                                   4     0     0   152   101  106.813
-   3 TENNESSEE                                   4     0     0   122    90  106.537
-   4 SEATTLE                                     5     0     0   169   135  106.500
-   5 BALTIMORE                                   4     1     0   149    76  105.807
-   6 BUFFALO                                     4     1     0   139   142  105.319
-   7 LAS VEGAS                                   3     2     0   151   152  105.247
-   8 NEW ENGLAND                                 2     2     0    97    92  105.146
-   9 NEW ORLEANS                                 3     2     0   153   150  103.146
-  10 CLEVELAND                                   4     1     0   156   149  102.361
-  11 LA RAMS                                     4     1     0   136    90  102.315
-  12 PITTSBURGH                                  4     0     0   118    87  101.622
-  13 TAMPA BAY                                   3     2     0   139   112  101.584
-  14 MIAMI                                       2     3     0   136   113  100.959
-  15 CHICAGO                                     4     1     0   105   100  100.862
-  16 CAROLINA                                    3     2     0   122   118  100.768
-  17 INDIANAPOLIS                                3     2     0   126    88  100.436
-  18 MINNESOTA                                   1     4     0   132   152   99.752
-  19 DETROIT                                     1     3     0    99   127   98.560
-  20 LA CHARGERS                                 1     4     0   110   125   98.176
-  21 DALLAS                                      2     3     0   163   180   98.007
-  22 HOUSTON                                     1     4     0   110   140   97.727
-  23 ARIZONA                                     2     2     0    98    92   97.425
-  24 CINCINNATI                                  1     3     1   102   126   96.206
-  25 JACKSONVILLE                                1     4     0   109   147   95.931
-  26 DENVER                                      1     3     0    82    98   95.804
-  27 WASHINGTON                                  1     4     0    89   142   95.415
-  28 ATLANTA                                     0     5     0   122   161   95.240
-  29 PHILADELPHIA                                1     3     1   113   145   95.031
-  30 SAN FRANCISCO                               2     3     0   124   114   93.991
-  31 NY GIANTS                                   0     5     0    81   133   91.392
-  32 NY JETS                                     0     4     0    65   131   89.008
+   1 KANSAS CITY                                 5     1     0   175   127  106.585
+   2 TENNESSEE                                   5     0     0   164   126  105.439
+   3 PITTSBURGH                                  5     0     0   156    94  105.308
+   4 TAMPA BAY                                   4     2     0   177   122  104.928
+   5 SEATTLE                                     5     0     0   169   135  104.910
+   6 LAS VEGAS                                   3     2     0   151   152  104.315
+   7 GREEN BAY                                   4     1     0   162   139  104.309
+   8 BALTIMORE                                   5     1     0   179   104  104.268
+   9 NEW ORLEANS                                 3     2     0   153   150  103.576
+  10 CHICAGO                                     5     1     0   128   116  103.506
+  11 BUFFALO                                     4     2     0   156   168  103.289
+  12 NEW ENGLAND                                 2     3     0   109   110  102.256
+  13 CAROLINA                                    3     3     0   138   141  101.383
+  14 DENVER                                      2     3     0   100   110  100.981
+  15 CLEVELAND                                   4     2     0   163   187  100.404
+  16 MIAMI                                       3     3     0   160   113  100.221
+  17 DETROIT                                     2     3     0   133   143  100.210
+  18 INDIANAPOLIS                                4     2     0   157   115  100.024
+  19 ARIZONA                                     3     2     0   136   102   99.749
+  20 LA RAMS                                     4     2     0   152   114   99.372
+  21 LA CHARGERS                                 1     4     0   110   125   98.859
+  22 HOUSTON                                     1     5     0   146   182   97.476
+  23 SAN FRANCISCO                               3     3     0   148   130   97.155
+  24 ATLANTA                                     1     5     0   162   184   97.014
+  25 MINNESOTA                                   1     5     0   155   192   96.977
+  26 DALLAS                                      2     4     0   173   218   96.470
+  27 PHILADELPHIA                                1     4     1   141   175   95.572
+  28 CINCINNATI                                  1     4     1   129   157   95.569
+  29 JACKSONVILLE                                1     5     0   125   181   94.825
+  30 NY GIANTS                                   1     5     0   101   152   93.834
+  31 WASHINGTON                                  1     5     0   108   162   93.772
+  32 NY JETS                                     0     5     0    65   155   90.914
